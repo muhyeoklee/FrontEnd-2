@@ -10,7 +10,8 @@ nav{
   padding : 12px;
   display: flex;
   justify-content : space-between;
-  height : 40px
+  height : 40px;
+  color: black;
 }
 
 nav > ul {

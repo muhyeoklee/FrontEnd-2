@@ -1,0 +1,15 @@
+nav a{
+  text-decoration: none;
+  color: black;
+  padding: 20px;
+}
+
+nav a:hover{
+  background-color: rgb(177, 177, 248);
+  color: azure;
+}
+
+header {
+  font-family: 'Oswald', sans-serif;
+  font-size: medium;
+}
